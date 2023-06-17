@@ -28,7 +28,7 @@ with open("file.txt",'r') as f:
         for line in f:
             word=line.split()
             count+=len(word)
-print("Word Count in File=",count)
+print("Word Count in File=",count) 
 ```
 ### OUTPUT:
 ![image](https://github.com/shalinikannan23/command-line-arguments-to-count-word/assets/118656529/f424a886-b1ac-4ee8-895a-11b47ae17414)

@@ -30,9 +30,11 @@ with open("file.txt",'r') as f:
             count+=len(word)
 print("Word Count in File=",count) 
 ```
-### OUTPUT:
-![image](https://github.com/shalinikannan23/command-line-arguments-to-count-word/assets/118656529/f424a886-b1ac-4ee8-895a-11b47ae17414)
+### FILE CONTENT:
+![image](https://github.com/shalinikannan23/command-line-arguments-to-count-word/assets/118656529/f21f5c40-a96b-40fc-b1c4-7cf845cc78e5)
 
+### OUTPUT:
+![image](https://github.com/shalinikannan23/command-line-arguments-to-count-word/assets/118656529/90c8c931-18b2-4f09-b70c-29bb654e3f9c)
 
 
 ## RESULT:
